@@ -11,7 +11,7 @@ tags:
     - ReactiveCocoa
     - 函数式编程
     - 开源框架
-    -asas
+    - asas
 ---
 # 前言
 

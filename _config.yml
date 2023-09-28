@@ -102,13 +102,10 @@ friends: [
         title: "博客园",
         href: "https://www.cnblogs.com/Corax0o0"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "哔哩哔哩",
+        href: "https://space.bilibili.com/165657521?spm_id_from=333.337.0.0"
     },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "网易云",
+        href: "https://music.163.com/#/user/home?id=399141188"
     }
 ]

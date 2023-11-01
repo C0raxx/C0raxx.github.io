@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      【160Crackme】《abexcm5》《KeyFile》
+title:      【160Crackme】《AD》
 subtitle:   Crackme
-date:       2023-11-02
+date:       2023-09-30
 author:     Corax
 header-img: img/post-bg-digital-native.jpg
 catalog: true
 tags:
-    - 【Crackme】
+    - 【CTF】
     - 【逆向】
 ---
 

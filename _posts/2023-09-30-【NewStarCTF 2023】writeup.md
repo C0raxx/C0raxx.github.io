@@ -4,7 +4,7 @@ title:      【NewStarCTF2023】writeup
 subtitle:   部分逆向
 date:       2023-09-30
 author:     Corax
-header-img: img/post-bg-desk.jpg
+header-img: post-bg-coffee.jpeg
 catalog: true
 tags:
     - 【CTF】

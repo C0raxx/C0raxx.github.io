@@ -4,7 +4,7 @@ title:      【160Crackme】《abexcm5》《KeyFile》
 subtitle:   Crackme
 date:       2023-11-02
 author:     Corax
-header-img: img/post-bg-coffee.jpeg
+header-img: img/post-bg-digital-native.jpg
 catalog: true
 tags:
     - 【Crackme】

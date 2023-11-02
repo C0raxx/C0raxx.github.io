@@ -1,11 +1,11 @@
 # Site settings
 title: Corax的博客
 SEOTitle: Corax的博客
-header-img: img/post-bg-digital-native.jpg #待修改
+header-img: img/desk.jpg #待修改
 email: 18221534587@163.com
 description: "Every failure is leading towards success."
 keyword: "Corax，Corax的博客"
-url: "https://corax.org.edu.kg/"          # your host, for absolute URL
+url: "https://blog.corax.fun"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      【NSSCTF逆向】《CSGO》
+title:      【NSSCTF逆向】《CSGO》《XOR》《ez_pycxor》
 subtitle:   CTF
 date:       2023-11-13
 author:     Corax

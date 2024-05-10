@@ -214,6 +214,9 @@ main因为代码很简单 没啥变化
 
 读的vae师傅的虚假控制流源码解读，后面也会写一篇自己的学习心得。
 
+本篇参考
+https://blog.csdn.net/weixin_51732593/article/details/126707046
+https://blog.csdn.net/qq_37507251/article/details/119523584
 
 
 
